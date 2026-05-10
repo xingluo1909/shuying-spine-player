@@ -1,2 +1,3 @@
-# shuying-spine-player
+# 数影spine player
 基于rust语言，以转换为核心针对macos制作的spine播放器，目前处于测试阶段。
+预期涵盖范围：2.1，3.5-3.8，4.0-4.2
