@@ -1,6 +1,9 @@
 <div align="center">
   <br />
   <h1>数影 Spine Player</h1>
+  <p align="center">
+  🌐 <a href="README.md">中文</a> · <a href="README.en.md">English</a> · <a href="README.jp.md">日本語</a>
+</p>
   <p>
     <strong>跨平台非官方 2D 骨骼动画播放器</strong>
     <br />
