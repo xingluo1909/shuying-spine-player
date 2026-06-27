@@ -26,7 +26,12 @@
 ---
 
 ## 📖 简介
-  这是集**播放、格式转换、合并、超分**等等功能于一体的跨平台**非官方**骨骼动画播放器项目，支持MacOS（仅D-01-release）及Windows（未来仅支持），目前已已实现从 **Spine 2.1** 到 **3.x** 到 **4.x** 的多版本兼容播放与指定格式转换，同时支持 Live2D Cubism 2/4 和 Unity FBX 3D 模型导入。
+  这是集**播放、格式转换、合并、超分**等等功能于一体的跨平台**非官方**骨骼动画播放器项目，支持MacOS（仅D-01-release）及Windows（未来仅支持），目前已实现从 **Spine 2.1** 到 **3.x** 到 **4.x** 的多版本兼容播放与指定格式转换，同时支持 Live2D Cubism 2/4 和 Unity FBX 3D 模型导入。
+
+<p align="center">
+  <img src="IMG/MAIN.png" alt="Screenshot 1" width="800" />
+</p>
+  
 ## ✨ 功能特性
 ### 🎬 播放器核心
 | 功能 | 说明 |
@@ -49,9 +54,17 @@
 ## 🗺️ 更新日志
 # D-02
 1.多语言支持，支持中/英/日三语，切换即时生效。
+
 2.liv2d支持，并且特别优化播放器相关组件，实现spine+l2d同屏播放。呈现效果如下图所示：
 
+<p align="center">
+  <img src="IMG/L2D+.png" alt="Screenshot 1" width="800" />
+</p>
+
 3.FBX支持，呈现效果如下图所示：
+<p align="center">
+  <img src="IMG/FBX-FGO.png" alt="Screenshot 1" width="800" />
+</p>
 
 4.导出功能支持。
 # D-01
