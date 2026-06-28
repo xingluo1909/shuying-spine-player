@@ -5,7 +5,7 @@
   🌐 <a href="README.md">中文</a> · <a href="README.en.md">English</a> · <a href="README.jp.md">日本語</a>
 </p>
   <p>
-    <strong>跨平台非官方 2D 骨骼动画播放器</strong>
+    <strong>跨平台非官方 2D 骨骼动画播放器，不止于Spine</strong>
     <br />
     多版本播放 · 格式转换 · 骨架合并 · Live2D · 3D 预览 · AI超分
   </p>
@@ -89,6 +89,9 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
 - [ ]   2.桌宠模块测试。
 - [ ]   3.多主题功能测试。
 - [ ]   4.cli功能测试。
+- [ ]   5.MMD播放功能测试。
+- [ ]   6.实验性fbx转spine（FGO）
+- [ ]   7.对更多游戏特化组件的功能测试，比如提取，转换等等。
 ---
 > 如果遇到无法读取、错误、失败等案例，欢迎提出 Issue（最好附带文件）。  
 > 项目地址：https://github.com/xingluo1909/shuying-spine-player
