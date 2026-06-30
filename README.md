@@ -7,7 +7,7 @@
   <p>
     <strong>跨平台非官方 2D 骨骼动画播放器，不止于Spine</strong>
     <br />
-    多版本播放 · 格式转换 · 骨架合并 · Live2D · 3D 预览 · AI超分
+    多版本播放 · 格式转换 · 骨架合并 · Live2D · 3D 预览（test） · AI超分
   </p>
   <p>
     <a href="#"><img src="https://img.shields.io/badge/版本-1.627.0-7c6af7?style=for-the-badge&labelColor=1a1a2e" alt="版本"></a>
@@ -29,7 +29,7 @@
 ---
 
 ## 📖 简介
-  这是集**播放、格式转换、合并、超分**等等功能于一体的跨平台**非官方**骨骼动画播放器项目，支持MacOS（仅D-01-release）及Windows（未来仅支持），目前已实现从 **Spine 2.1** 到 **3.x** 到 **4.x** 的多版本兼容播放与指定格式转换，同时支持 Live2D Cubism 2/4 和 Unity FBX 3D 模型导入。
+  这是集**播放、格式转换、合并、超分**等等功能于一体的跨平台**非官方**骨骼动画播放器项目，支持MacOS（仅D-01-release）及Windows（未来仅支持），目前已实现从 **Spine 2.1** 到 **3.x** 到 **4.x** 的多版本兼容播放与指定格式转换，同时支持 Live2D Cubism 2/4 和 Unity FBX 3D(fgo) 模型导入。
 
 <p align="center">
   <img src="IMG/MAIN.png" alt="Screenshot 1" width="800" />
