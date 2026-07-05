@@ -88,6 +88,21 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
 
 # D-03（进度预览占位）
 
+1.MMD（待优化）
+<p align="left">
+  <img src="IMG/FU/MMD.png" alt="Screenshot 1" width="400" />
+</p>
+
+2.PSKX(待优化)
+<p align="left">
+  <img src="IMG/FU/PSKX.png" alt="Screenshot 1" width="400" />
+</p>
+
+2.工具集(待优化)
+<p align="left">
+  <img src="IMG/FU/TOOLS.png" alt="Screenshot 1" width="400" />
+</p>
+
 ---
 ## 🔄 后续计划
   目前尚在进行测试的模块:
@@ -98,7 +113,8 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
 - [ ]   5.MMD播放功能测试。
 - [ ]   6.实验性fbx转spine（FGO）
 - [ ]   7.对更多游戏特化组件的功能测试，比如提取，转换等等。
-- [ ]   8.GLBz支持。
+- [ ]   8.GLB支持。
+- [ ]   9.PSKX支持。
 ---
 > 如果遇到无法读取、错误、失败等案例，欢迎提出 Issue（最好附带文件）。  
 > 项目地址：https://github.com/xingluo1909/shuying-spine-player
