@@ -98,10 +98,12 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
   <img src="IMG/FU/PSKX.png" alt="Screenshot 1" width="400" />
 </p>
 
-2.工具集(待优化)
+3.工具集(待优化)
 <p align="left">
   <img src="IMG/FU/TOOLS.png" alt="Screenshot 1" width="400" />
 </p>
+
+4.修复了一些spine及l2d播放上的bug
 
 ---
 ## 🔄 后续计划
