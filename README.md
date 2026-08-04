@@ -86,25 +86,7 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
 
 5.修复一些l2d&spine的播放bug及更多版本支持。
 
-# D-03（进度预览占位）
-
-1.MMD（待优化）
-<p align="left">
-  <img src="IMG/FU/MMD.png" alt="Screenshot 1" width="400" />
-</p>
-
-2.PSKX(待优化)
-<p align="left">
-  <img src="IMG/FU/PSKX.png" alt="Screenshot 1" width="400" />
-</p>
-
-3.工具集(待优化)
-<p align="left">
-  <img src="IMG/FU/TOOLS.png" alt="Screenshot 1" width="400" />
-</p>
-
-4.修复了一些spine及l2d播放上的bug
-5.重构“单”模式播放机制，更优质的性能表现，数以千计的素材拖入也毫无压力
+# D-03
 
 ---
 ## 🔄 后续计划
@@ -122,4 +104,4 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
 > 如果遇到无法读取、错误、失败等案例，欢迎提出 Issue（最好附带文件）。  
 > 项目地址：https://github.com/xingluo1909/shuying-spine-player
 ---
-> D-02后基本功能大多完善，而现实工作繁忙，预计无限期暂缓维护，感谢使用:)。
+> 最后感谢曾经在论坛中帮助过我的人们。
