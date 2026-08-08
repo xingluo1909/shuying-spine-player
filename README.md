@@ -32,7 +32,7 @@
   这是集**播放、格式转换、合并、超分**等等功能于一体的跨平台**非官方**骨骼动画播放器项目，支持MacOS（仅D-01-release）及Windows（未来仅支持），目前已实现从 **Spine 2.1** 到 **3.x** 到 **4.x** 的多版本兼容播放与指定格式转换，同时支持 Live2D Cubism 模型导入。
 
 <p align="center">
-  <img src="IMG/MAIN.png" alt="Screenshot 1" width="800" />
+  <img src="IMG/zhi-h.png" alt="Screenshot 1" width="800" />
 </p>
   
 ## ✨ 功能特性
@@ -89,7 +89,9 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
 
 # D-03
 1.全新亮色主题上线，重构界面UI布局。
-
+<p align="center">
+  <img src="IMG/zhi-q.png" alt="Screenshot 1" width="800" />
+</p>
 2.安全性增强，修复了一些播放和格式上的bug
 
 3.更流畅的播放——全新懒加载机制上线
@@ -114,5 +116,7 @@ spine版本支持，合并模块仅限定于3.8，并且同源关系素材。
 > 感谢曾经在论坛中帮助过我的人们:)
 ---
 最后以个人喜欢的动画片角色演示收尾（素材仅作播放器功能演示，无任何商业用途，如涉及版权请联系删除，本仓库不包含任何提取工具与方法）
-
+<p align="center">
+  <img src="IMG/ta.png" alt="Screenshot 1" width="800" />
+</p>
 希望这个软件能像它们一样，陪伴你我之后的成长旅程(=｀ω´=)
